@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     #Aplicaciones de django agregadas
     #Aplicaciones de terceros
     #Mis Aplicaciones
-    'music',
+    'music.apps.MusicConfig',
 ]
 
 MIDDLEWARE = [
